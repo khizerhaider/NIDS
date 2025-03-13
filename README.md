@@ -20,7 +20,7 @@ The UNSW-NB15 dataset is a benchmark dataset for network intrusion detection, co
 🚀 Installation & Usage
 🔹 Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/NIDS-LSTM.git
+git clone https://github.com/khizerhaider/NIDS/
 cd NIDS-LSTM
 
 🔹 Install Dependencies
